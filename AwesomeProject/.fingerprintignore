@@ -1,0 +1,6 @@
+# Ignore the entire ios folder
+ios/**/*
+
+# But still keep ios/Podfile and ios/Podfile.lock
+!ios/Podfile
+!ios/Podfile.lock
